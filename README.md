@@ -44,3 +44,11 @@ Execute o servidor localmente
 ```
 python manage.py runserver
 ```
+
+Crie um app
+```
+python manage.py startapp nome_do_app
+```
+
+
+
